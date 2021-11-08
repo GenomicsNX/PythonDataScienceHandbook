@@ -1,5 +1,10 @@
 # Python Data Science Handbook
 
+At GitHub Dev:
+https://github.dev/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
+
+
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jakevdp/PythonDataScienceHandbook/master?filepath=notebooks%2FIndex.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
